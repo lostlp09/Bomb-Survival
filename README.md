@@ -1,6 +1,12 @@
 # Bomb-Survival
 A Game where you dodge Bombs. Each 15 seconds  they are going to spawn faster
 
-ITS MY FIRST UNITY GAME PLS DONT FLAME ME 
+This is my first time using Unity i never used Unity before and i made this game for fun and practice
 
-I CREATED THIS GAME FOR FUN!!!!! <-- Cap i just want to get a 3D Printer and im a noob at programing but i will try my best (:
+This Game is very basic and it took way to long to code  because im a noob in C# and Unity
+
+My Goal is to reach a 3D Printer 
+
+Thx for Reading
+
+I CREATE GAMEs FOR FUN!!!!! 
